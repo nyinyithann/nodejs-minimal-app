@@ -83,5 +83,5 @@
 Run the following commands in seperate command prompt. Every time source fiels are modified, the app and test will be run again automatically.
 - `npm start`
 - `npm run test:watch`
-<br>
+
 ![image](https://user-images.githubusercontent.com/156037/101244793-68788f00-3743-11eb-9f6d-d8eca1488d41.png)
